@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 10 16:26:45 HST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017f-76cc-c035-0000170e03e8 
+on database directory /home/abigail/database/pollster with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6a6824be 
+Loaded from file:/opt/Apache/db-derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.15+3
+user.dir=/home/abigail/IdeaProjects/final
+os.name=Linux
+os.arch=amd64
+os.version=5.15.25-1-MANJARO
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
